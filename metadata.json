@@ -1,0 +1,5 @@
+{
+  "name": "AI Photoshoot Simulator",
+  "description": "An application for influencers and product creators to generate high-quality lifestyle and product shots. Users can upload an image and use text prompts to place the subject into any imaginable scenario.",
+  "requestFramePermissions": []
+}
